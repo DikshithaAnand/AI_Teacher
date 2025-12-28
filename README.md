@@ -132,3 +132,14 @@ These limitations are expected for local, offline language models.
 - Add options to export or save responses  
 
 These enhancements can further improve usability and functionality.
+
+## 👤 Author
+
+**Dikshitha Anand**
+
+- AI & Machine Learning Enthusiast  
+- Interested in Python, Data Structures, and AI-based applications  
+- Focused on building practical, offline AI tools using open-source technologies  
+
+**GitHub:** https://github.com/DikshithaAnand
+
