@@ -52,6 +52,7 @@ https://ollama.com/download
 Verify installation:
 ```bash
 ollama --version
+```
 
 ## 2️⃣ Install Phi Model
 
@@ -71,6 +72,7 @@ venv\Scripts\activate
 ## 4️⃣ Install Dependencies
 
 Install the required Python packages:
+
 ```bash
 pip install -r requirements.txt
 ```
