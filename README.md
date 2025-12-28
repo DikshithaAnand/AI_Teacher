@@ -59,7 +59,7 @@ Download the lightweight Phi language model using Ollama:
 
 ```bash
 ollama pull phi
-
+```
 ## 3️⃣ Create Virtual Environment (Optional)
 
 It is recommended to use a virtual environment for dependency management.
@@ -67,21 +67,20 @@ It is recommended to use a virtual environment for dependency management.
 ```bash
 python -m venv venv
 venv\Scripts\activate
-
+```
 ## 4️⃣ Install Dependencies
 
-```bash
 Install the required Python packages:
-
+```bash
 pip install -r requirements.txt
-
+```
 ## 5️⃣ Run the Application
 
 Start the Streamlit application using:
 
 ```bash
 streamlit run app.py
-
+```
 
 The application will open in your default web browser.
 
