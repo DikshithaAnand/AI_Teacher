@@ -28,19 +28,19 @@ This project is suitable for **learning, internships, mini projects, and demonst
 ---
 
 ## 📁 Project Structure
-
+```text
 ai-assistant/
 │
-- ├── app.py
-- ├── backend/
-- │ ├── init.py
-- │ └── llm_api.py
-  │
-- ├── frontend/
-- ├── requirements.txt
-- ├── .gitignore
-- └── README.md
-
+├── app.py
+├── backend/
+│ ├── init.py
+│ └── llm_api.py
+│
+├── frontend/
+├── requirements.txt
+├── .gitignore
+└── README.md
+```
 ---
 
 ## ⚙️ Installation & Setup
