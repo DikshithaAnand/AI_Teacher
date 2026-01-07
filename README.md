@@ -23,7 +23,7 @@ This project is suitable for **learning, internships, mini projects, and demonst
 - **Frontend:** Streamlit  
 - **Backend:** Python  
 - **LLM:** Phi model  
-- **Inference Engine:** Ollama (local HTTP
+- **Inference Engine:** Ollama (local HTTP Api)
 
 ---
 
