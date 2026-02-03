@@ -89,6 +89,8 @@ streamlit run app.py
 
 The application will open in your default web browser.
 
+---
+
 # 🧪 Example Prompts
 
 You can ask the AI Assistant the following types of questions:
