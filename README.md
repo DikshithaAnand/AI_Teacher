@@ -113,6 +113,8 @@ These prompts demonstrate the system’s ability to explain concepts and generat
 
 This design ensures low latency and consistent performance.
 
+---
+
 # 🎓 Use Cases
 
 - Topic explanation tool for students  
