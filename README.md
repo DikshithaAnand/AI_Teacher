@@ -102,6 +102,8 @@ You can ask the AI Assistant the following types of questions:
 
 These prompts demonstrate the system’s ability to explain concepts and generate simple code snippets.
 
+---
+
 # ⚡ Performance Notes
 
 - Uses the **Phi language model (~1.6 GB)** for fast inference  
