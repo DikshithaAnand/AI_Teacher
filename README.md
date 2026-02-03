@@ -122,7 +122,7 @@ The project is suitable for both educational and demonstrative purposes.
 
 - Knowledge cutoff depends on the model training data (approximately 2023)  
 - Does not provide real-time or live internet-based information  
-- Designed mainly for explanations, not large-scale or production applications  
+- Designed mainly for explanations, not large-scale or production applications.
 
 These limitations are expected for local, offline language models.
 
