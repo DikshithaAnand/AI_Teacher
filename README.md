@@ -80,18 +80,27 @@ Ensure the following are available on your system:
 
 ---
 
-## 1️⃣ Install Ollama
+# ⚙️ Installation & Setup  
+## AI Teacher – Local AI Topic Explainer
+
+This section provides the complete installation and setup steps in a **clean, neat Markdown format**, starting from download to running the application.
+
+---
+
+## 1️⃣ Download Ollama
 
 Ollama is required to run the language model locally.
 
-### 🔹 Download Ollama
-Download Ollama from the official website:
+- Visit the official website:  
+  https://ollama.com/download
+- Download the installer for your operating system (**Windows / macOS / Linux**)
+- Complete the installation and restart the system if required
 
-https://ollama.com/download
+---
 
+## 2️⃣ Verify Ollama Installation
 
-### 🔹 Verify Installation
-Open a terminal or command prompt and run:
+After installation, open a terminal or command prompt and run:
 
 ```bash
 ollama --version
