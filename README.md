@@ -167,5 +167,14 @@ Run the following command to start an interactive session with the Phi model:
 ollama run phi
 ```
 
+## 💬 Sample Prompts
+
+- Explain artificial intelligence in simple words  
+- What is machine learning?  
+- Explain Python libraries  
+- Difference between AI and ML  
+- Write a Python function to reverse a list  
+
+---
 
 
