@@ -62,3 +62,37 @@ ai-assistant/
 └── README.md
 ```
 
+# ⚙️ Installation & Setup Guide  
+## AI Teacher – Local AI Topic Explainer
+
+This document explains how to install, configure, and run **AI Teacher** on your local system using **Streamlit** and **Ollama**.
+
+---
+
+## ✅ Prerequisites
+
+Ensure the following are available on your system:
+
+- Python **3.9 or higher**
+- Internet connection (required only for initial setup)
+- Minimum **4 GB RAM** recommended
+- Supported OS: **Windows / macOS / Linux**
+
+---
+
+## 1️⃣ Install Ollama
+
+Ollama is required to run the language model locally.
+
+### 🔹 Download Ollama
+Download Ollama from the official website:
+
+https://ollama.com/download
+
+
+### 🔹 Verify Installation
+Open a terminal or command prompt and run:
+
+```bash
+ollama --version
+
