@@ -104,4 +104,33 @@ After installation, open a terminal or command prompt and run:
 
 ```bash
 ollama --version
+```
+
+# 🧠 Phi Language Model Setup  
+## AI Teacher – Local AI Topic Explainer
+
+This document explains how to download, verify, and use the **Phi language model** with **Ollama** for the AI Teacher project.
+
+---
+
+## 📦 About the Phi Model
+
+The **Phi** model is a lightweight large language model optimized for:
+- Fast inference
+- Low memory usage
+- CPU-only systems
+- Offline execution
+
+It is ideal for educational tools and local AI applications.
+
+---
+
+## 1️⃣ Download the Phi Model
+
+Use Ollama to download the Phi language model:
+
+```bash
+ollama pull phi
+```
+
 
