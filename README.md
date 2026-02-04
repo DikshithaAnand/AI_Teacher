@@ -133,4 +133,23 @@ Use Ollama to download the Phi language model:
 ollama pull phi
 ```
 
+# 🧠 Phi Language Model – Verification & Usage  
+## AI Teacher – Local AI Topic Explainer
+
+This section covers **verification, testing, usage, performance, and limitations** of the **Phi language model** used in the AI Teacher project.
+
+---
+
+## 1️⃣ Verify Phi Model Installation
+
+After downloading the Phi model, verify that it is installed correctly.
+
+### Check Installed Models
+
+Run the following command:
+
+```bash
+ollama list
+
+
 
