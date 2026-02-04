@@ -150,6 +150,22 @@ Run the following command:
 
 ```bash
 ollama list
+```
+
+## 🧪 Test the Phi Language Model  
+### AI Teacher – Local AI Topic Explainer
+
+This section explains how to **test the Phi language model** after installation to ensure it is working correctly.
+
+---
+
+### Start the Phi Model
+
+Run the following command to start an interactive session with the Phi model:
+
+```bash
+ollama run phi
+```
 
 
 
