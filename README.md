@@ -177,4 +177,14 @@ ollama run phi
 
 ---
 
+## 👤 Author Details
+
+**Name:** Dikshitha Anand  
+**Role:** Student Developer | AI & Machine Learning Enthusiast  
+**Interests:** Python, Data Structures, Local AI, AI-based Applications  
+**Focus:** Building practical, offline AI tools using open-source technologies  
+
+**GitHub:** https://github.com/DikshithaAnand
+
+---
 
