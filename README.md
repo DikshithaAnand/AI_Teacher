@@ -167,6 +167,8 @@ Run the following command to start an interactive session with the Phi model:
 ollama run phi
 ```
 
+---
+
 ## 💬 Sample Prompts
 
 - Explain artificial intelligence in simple words  
