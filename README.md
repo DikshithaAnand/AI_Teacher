@@ -15,7 +15,7 @@ This project is suitable for **learning, internships, mini projects, and demonst
 - 🔒 Secure (no secrets or tokens required)
 - 🌐 Works offline after setup
 - 🧑‍🎓 Ideal for explaining topics and concepts
-- 💻 Simple and clean Streamlit interface
+- 💻 Simple and clean Streamlit interface.
 
 ---
 
