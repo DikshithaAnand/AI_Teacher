@@ -34,6 +34,7 @@ AI Teacher proves that **powerful AI explanations can run completely on your loc
 - Simple and intuitive interface
 - Secure, offline-first design
 - Low system requirements
+- Offline Chatting 
 
 ---
 
