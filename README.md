@@ -1,17 +1,29 @@
-# 🤖 AI Teacher – Local AI Topic Explainer
+# 🤖 AI Teacher – Offline AI Topic Explainer
 
-AI Teacher is a **local, offline AI-powered topic explainer** built using **Streamlit** and **Ollama**.  
-It uses a lightweight **Phi language model** to generate fast, clear explanations **without cloud APIs, API keys, or internet access after setup**.
+AI Teacher is a lightweight **offline AI-powered learning assistant** developed using **Streamlit** and **Ollama**.  
+The application uses the **Phi language model** to provide fast, simple, and interactive topic explanations directly on a local machine.
 
-This project is designed for **students, internships, academic mini-projects, demonstrations, and portfolios**.
+Unlike cloud-based AI systems, this project works **without external APIs, subscriptions, or continuous internet connectivity after installation**.
+
+---
+
+## 🚀 Project Highlights
+
+- 💻 Fully offline AI application
+- ⚡ Fast response generation using the Phi model
+- 🔒 No API keys or cloud dependency
+- 🧠 Generates clear educational explanations
+- 🎯 Beginner-friendly and easy to use
+- 📚 Useful for students, mini-projects, demos, and portfolios
 
 ---
 
 ## 🌟 Why AI Teacher?
 
-Most AI tools rely on cloud services, paid APIs, and internet connectivity.  
-AI Teacher proves that **powerful AI explanations can run completely on your local machine**, securely and efficiently.
+Most modern AI applications depend heavily on cloud platforms and paid API services.  
+AI Teacher demonstrates that intelligent educational assistants can also run efficiently on local systems while maintaining privacy, speed, and accessibility.
 
+This project focuses on creating a simple and practical AI learning tool that is affordable, portable, and easy to deploy.
 ---
 
 ## ✨ Key Highlights
