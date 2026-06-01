@@ -1,4 +1,3 @@
-````md
 # 🤖 AI Teacher – Offline AI Learning Assistant
 
 AI Teacher is a lightweight **offline AI-powered educational assistant** built using **Python, Streamlit, and Ollama**.
@@ -254,4 +253,4 @@ making it an excellent project for students and developers exploring local LLM a
 If you found this project useful, consider giving it a ⭐ on GitHub!
 
 ```
-```
+
