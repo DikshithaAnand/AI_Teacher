@@ -252,5 +252,5 @@ making it an excellent project for students and developers exploring local LLM a
 
 If you found this project useful, consider giving it a ⭐ on GitHub!
 
-```
+---
 
